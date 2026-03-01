@@ -2,14 +2,29 @@
     "version": "1.0",
     "templates": [
         {
-            "name": "testing-remote-template",
-            "description": "DevForge internal test template.",
-            "url": "https://github.com/ChinmayyK/DevForge.git",
+            "name": "go-api-starter",
+            "description": "A minimal, production-ready Go 1.22+ API utilizing standard library routing.",
+            "url": "https://github.com/ChinmayyK/template-go-api.git",
             "tags": [
-                "core",
-                "api"
+                "go",
+                "backend",
+                "api",
+                "docker"
             ],
-            "author": "Platform Team",
+            "author": "Official",
+            "version": "1.0.0"
+        },
+        {
+            "name": "react-vite-starter",
+            "description": "Modern frontend template using React, TypeScript, Vite, and Tailwind CSS.",
+            "url": "https://github.com/ChinmayyK/template-react-vite.git",
+            "tags": [
+                "react",
+                "frontend",
+                "typescript",
+                "tailwind"
+            ],
+            "author": "Official",
             "version": "1.0.0"
         }
     ]
