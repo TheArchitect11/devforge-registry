@@ -1,0 +1,16 @@
+{
+    "version": "1.0",
+    "templates": [
+        {
+            "name": "testing-remote-template",
+            "description": "DevForge internal test template.",
+            "url": "https://github.com/ChinmayyK/DevForge.git",
+            "tags": [
+                "core",
+                "api"
+            ],
+            "author": "Platform Team",
+            "version": "1.0.0"
+        }
+    ]
+}
