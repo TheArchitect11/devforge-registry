@@ -4,7 +4,7 @@
         {
             "name": "go-api-starter",
             "description": "A minimal, production-ready Go 1.22+ API utilizing standard library routing.",
-            "url": "https://github.com/ChinmayyK/template-go-api.git",
+            "url": "https://github.com/TheArchitect11/template-go-api.git",
             "tags": [
                 "go",
                 "backend",
@@ -17,7 +17,7 @@
         {
             "name": "react-vite-starter",
             "description": "Modern frontend template using React, TypeScript, Vite, and Tailwind CSS.",
-            "url": "https://github.com/ChinmayyK/template-react-vite.git",
+            "url": "https://github.com/TheArchitect11/template-react-vite.git",
             "tags": [
                 "react",
                 "frontend",
